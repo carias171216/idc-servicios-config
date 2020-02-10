@@ -1,0 +1,8 @@
+ "OperatorConfig": {
+    "UrlConnection": "http://azure-docker-idc-qa2.eastus.cloudapp.azure.com:8090/",
+    "OperatorId": "OPSECU33",
+    "ClientId": "TEST0019",
+    "TransactionId": "310001",
+    "BranchId": "CARV000011",
+    "UserCod": "KITCARVA"
+  },
